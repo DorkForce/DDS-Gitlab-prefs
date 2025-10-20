@@ -4,19 +4,19 @@
         "name"    : "weblink",
         "regex"   : "https?",
         "severity": "low",
-        "styles"  : "{ background: darkblue; color: greenyellow; }",
+        "styles"  : "{ background: darkblue; color: greenyellow; }"
     },
     {
         "name"    : "missing",
         "regex"   : "not found"    ,
         "severity": "medium"       ,
-        "styles"  : "{ background: orange; color: black; }",
+        "styles"  : "{ background: orange; color: black; }"
     },
     {
         "name"    : "errorFailure",
         "regex"   : "job failed|fail src|FATAL ERROR|failure|Error:|ERROR -|npm error",
         "severity": "high",
-        "styles"  : "{ background: darkred; color: cornsilk; }",
-    },
+        "styles"  : "{ background: darkred; color: cornsilk; }"
+    }
   ]
 }

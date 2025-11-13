@@ -10,7 +10,7 @@
         "name"    : "missing",
         "regex"   : "not found"    ,
         "severity": "medium"       ,
-        "styles"  : "{ background: orange; color: black; }"
+        "styles"  : "{ background: darkmagenta; color: gold; }"
     },
     {
         "name"    : "errorFailure",
